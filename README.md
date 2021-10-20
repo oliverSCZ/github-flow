@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Fingerprint Authentication
+# Hello Microverse Project
 
-> This project is about reading the fingerprint.
+> This is my first project for Microverse like a micronaut.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,9 +10,9 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- High technologies
+- Index.html file
+- Style.css file
+- Using Linter
 
 
 ## Authors
